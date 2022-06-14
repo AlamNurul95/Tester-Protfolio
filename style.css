@@ -63,6 +63,9 @@ h2 {
     margin-right: 5%;
     padding: 20px;
     border-radius: 10px;
+    border-image-slice: 1;
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
 
 }
 
@@ -73,15 +76,23 @@ h2 {
     margin-right: 5%;
     padding: 20px;
     border-radius: 10px;
+    border-image-slice: 1;
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6713c, #0e0c9f) 30;
+
 
 
 }
 
 .new {
     display: flex;
+    margin-bottom: 10%;
 
 }
 
 footer {
     text-align: center;
+    color: gray;
 }
