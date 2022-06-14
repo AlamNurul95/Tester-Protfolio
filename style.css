@@ -18,6 +18,9 @@ h2 {
     padding: 10px 40px;
     background-color: darksalmon;
     color: black;
+    border-radius: 5px;
+
+
 }
 
 
@@ -51,4 +54,34 @@ h2 {
     width: 80%;
 
 
+}
+
+.Developer {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.baby {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+
+.new {
+    display: flex;
+
+}
+
+footer {
+    text-align: center;
 }
